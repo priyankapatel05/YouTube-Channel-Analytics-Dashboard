@@ -48,8 +48,7 @@ Focuses on growth opportunities and content optimization:
 ## 🔍 Key Insights
 - August 2025 recorded the highest growth with **50K+ views**
 - Top-performing video generated **30K+ views**
-- Top 1% of videos contributed **23% of total channel views**
-- Identified **104 videos with zero views** using SQL queries
+- Identified **104 videos with zero views** 
 - Friday showed the highest average engagement and views
 - Content gap observed during Dec 2025 – Jan 2026
 
