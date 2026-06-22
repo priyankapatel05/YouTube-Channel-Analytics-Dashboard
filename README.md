@@ -83,5 +83,5 @@ https://www.youtube.com/@pmotivational5419
 ## 👤 Author
 **Priyanka Patel**
 
-🔗 LinkedIn: [Add Your LinkedIn Profile]  
+🔗 LinkedIn: https://www.linkedin.com/in/priyanka-patel-2a2720242  
 🔗 GitHub: https://github.com/priyankapatel05
