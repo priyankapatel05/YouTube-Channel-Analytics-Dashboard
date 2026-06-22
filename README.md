@@ -1,3 +1,6 @@
+<img width="997" height="697" alt="Dashboard 3" src="https://github.com/user-attachments/assets/9d3249d5-5d95-4e26-ace9-ae12d6ba742b" />
+<img width="1007" height="701" alt="Dashboard 2" src="https://github.com/user-attachments/assets/812d91f1-4582-4dfc-9411-e820132c0a55" />
+<img width="1003" height="708" alt="Dashboard 1" src="https://github.com/user-attachments/assets/b9682a56-a30b-4c2f-bead-7518b4dbf30a" />
 # 📊 YouTube Channel Analytics Dashboard
 
 ## 🚀 Project Overview
