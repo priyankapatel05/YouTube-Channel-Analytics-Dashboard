@@ -66,13 +66,16 @@ This analysis helps content creators:
 ## 📸 Dashboard Screenshots
 
 ### Dashboard 1 – Channel Overview
-![Dashboard 1](Dashboard1_Channel_Overview.png)
+![Dashboard 1] <img width="1003" height="708" alt="Dashboard 1" src="https://github.com/user-attachments/assets/aee2608b-5ed6-4302-8382-3db793296700" />
+
 
 ### Dashboard 2 – Video Performance Analysis
-![Dashboard 2](Dashboard2_Video_Performance.png)
+![Dashboard 2] <img width="1007" height="701" alt="Dashboard 2" src="https://github.com/user-attachments/assets/7d650f04-d98b-4b4b-a330-a56aa8b5e510" />
+
 
 ### Dashboard 3 – Growth & Content Strategy
-![Dashboard 3](Dashboard3_Growth_Strategy.png)
+![Dashboard 3] <img width="997" height="697" alt="Dashboard 3" src="https://github.com/user-attachments/assets/478fcbd9-9fa3-4138-8105-ec2014fc7a8e" />
+
 
 ## 🎥 Data Source
 My Own YouTube Channel Analytics
